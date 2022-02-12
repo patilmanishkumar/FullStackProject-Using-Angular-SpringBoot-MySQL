@@ -1,0 +1,5 @@
+package com.ttl.springbootbackend.repository;
+
+public interface EmployeeRepository {
+
+}

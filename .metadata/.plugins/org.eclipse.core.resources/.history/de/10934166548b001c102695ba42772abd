@@ -1,0 +1,6 @@
+package com.ttl.springbootbackend.exception;
+
+public class ResourceNotFoundException extends RuntimeException {
+	
+
+}
